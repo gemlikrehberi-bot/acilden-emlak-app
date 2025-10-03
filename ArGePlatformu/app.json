@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ArGePlatformu",
+    "slug": "ArGePlatformu",
+    "scheme": "argeplatformu",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
